@@ -1,0 +1,15 @@
+{
+  "name": "dbvc/restapi",
+  "description": "SQL database VersionControl.",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Patrik Šimunič",
+      "email": "patriksimunic@hotmail.com"
+    }
+  ],
+  "require": {
+    "silex/silex": "2.0.x-dev"
+  }
+}
